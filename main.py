@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import random
 
-TOKEN = 'ТВОЙ_ТОКЕН_СЮДА'
+TOKEN = 'ODQ2MTEwNTI0NDc0MzY5.igpS3G6RXh_4xS1e3FuhA9KVCUxr1dr3ugQwa4zsl5k'
 
 intents = discord.Intents.default()
 intents.message_content = True
